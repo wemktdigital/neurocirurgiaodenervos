@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neurocirurgiaodenervos.com.br/sitemap.xml
